@@ -3,7 +3,7 @@
 <!-- saved from url=(0061)http://www.Computercustomerservice.com -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<link rel="shortcut icon" href="http://wwww.computercustomerservice.com\images\Computer service center.png" type="image/png">
+<link rel="shortcut icon" href="http://computercustomerservice.com/images/Computer%20service%20center.png" type="image/png">
 
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,9 +11,9 @@
 <title>1844-310-1001 Computer Customer Service Care Number</title>
 <meta name="Description" content="Looking for Computer customer service phone number? Call at 1844-310-1001 Computer customer care number to recover your blocked Computer account online by certified experts.">
 <meta name="Keywords" content="Computer customer service, Computer customer support, Computer customer support helpline, Computer customer care number, Computer customer care number, Computer help number, Computer helpline number, Computer phone number, Computer contact number, Computer customer service phone number, Computer customer care contact number, USA, Canada, toll free">
-<link href="http://wwww.computercustomerservice.com/index_files/bootstrap.min.css" rel="stylesheet">
-<link rel="stylesheet" href="http://wwww.computercustomerservice.com/index_files/font-awesome.min.css">
-<link href="http://wwww.computercustomerservice.com/index_files/style.css" rel="stylesheet">
+<link href="http://computercustomerservice.com/index_files/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="http://computercustomerservice.com/index_files/font-awesome.min.css">
+<link href="http://computercustomerservice.com/index_files/style.css" rel="stylesheet">
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
@@ -134,10 +134,10 @@
       </div>
       <div class="wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
         <h4>Contact Computer Support </h4>
-        <img src="images/help.png" class="img-responsive" alt="Computer Customer service" title="Contact Computer Help"> </div>
+        <img src="http://computercustomerservice.com/images/help.png" class="img-responsive" alt="Computer Customer service" title="Contact Computer Help"> </div>
       <div class="wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
         <p class="h4">Disclaimer </p>
-        <img src="./index_files/disclaimer.jpg" class="img-responsive" alt="disclaimer" title="Disclaimer"> </div>
+        <img src="http://computercustomerservice.com/index_files/disclaimer.jpg" class="img-responsive" alt="disclaimer" title="Disclaimer"> </div>
       <div class="wow fadeInDown">
         <p class="h4">Why Us?</p>
         <ul style="color:#000;">
@@ -194,7 +194,7 @@
     </div>
   </div>
 </footer>
-<script src="http://wwww.computercustomerservice.com/index_files/jquery-2.1.1.min.js"></script> 
-<script src="http://wwww.computercustomerservice.com/index_files/bootstrap.min.js"></script>
+<script src="http://computercustomerservice.com/index_files/jquery-2.1.1.min.js"></script> 
+<script src="http://computercustomerservice.com/index_files/bootstrap.min.js"></script>
 
 </body></html>
